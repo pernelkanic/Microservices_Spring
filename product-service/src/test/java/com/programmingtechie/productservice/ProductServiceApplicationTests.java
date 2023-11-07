@@ -1,4 +1,4 @@
-package com.programmingtechie.productservice;
+
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.springmicroservices.productservice.dto.ProductRequest;
