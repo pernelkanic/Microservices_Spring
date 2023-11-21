@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
     <groupId>com.venkat.microservices</groupId>
-  <artifactId>Api-Gateway</artifactId>
+  <artifactId>api-gateway</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Api-Gateway</name>
   <url>http://maven.apache.org</url>

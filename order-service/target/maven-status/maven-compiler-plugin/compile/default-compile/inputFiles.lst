@@ -1,0 +1,11 @@
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\dto\InventoryResponse.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\service\OrderService.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\dto\OrderRequest.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\model\Order.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\events\OrderPlacedEvent.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\OrderServiceApplication.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\repository\OrderRepository.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\controller\OrderController.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\Configuration\WebClientConfiguration.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\model\OrderLineItems.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\order-service\src\main\java\com\springmicroservices\orderservice\dto\OrderLineItemsDto.java

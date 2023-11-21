@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
     <groupId>com.venkat.microservices</groupId>
-  <artifactId>Discovery-Server</artifactId>
+  <artifactId>discovery-server</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Discovery-Server</name>
   <url>http://maven.apache.org</url>

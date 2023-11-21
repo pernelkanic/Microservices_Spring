@@ -1,0 +1,7 @@
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\InventoryServiceApplication.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\model\Inventory.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\repository\InventoryRepository.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\Utils\DataLoader.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\DTO\InventoryResponse.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\controller\InventoryController.java
+D:\venkat\STUDIES\Full Stack\Spring\Spring_Microservices\spring-boot-microservices\inventory-service\src\main\java\com\springmicroservices\inventoryservice\service\InventoryService.java

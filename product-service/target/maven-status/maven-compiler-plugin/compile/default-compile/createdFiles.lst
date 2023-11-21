@@ -1,0 +1,10 @@
+com\springmicroservices\productservice\model\Product$ProductBuilder.class
+com\springmicroservices\productservice\controller\ProductController.class
+com\springmicroservices\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\springmicroservices\productservice\repository\ProductRepository.class
+com\springmicroservices\productservice\dto\ProductResponse.class
+com\springmicroservices\productservice\service\ProductService.class
+com\springmicroservices\productservice\ProductServiceApplication.class
+com\springmicroservices\productservice\dto\ProductRequest.class
+com\springmicroservices\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\springmicroservices\productservice\model\Product.class
